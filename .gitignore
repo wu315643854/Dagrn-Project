@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+data/raw_gps/*.csv
+data/raw_gps/*.xls
+data/preprocessed/*.csv
+outputs/mapmatch_output/*.csv
+data/network_road/*_enriched.*
+data/network_road/

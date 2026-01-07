@@ -1,0 +1,12 @@
+torch>=2.0.0
+torch-geometric>=2.3.0
+pandas
+numpy
+geopandas
+scikit-learn
+scikit-mobility
+gotrackit
+tqdm
+matplotlib
+seaborn
+folium
